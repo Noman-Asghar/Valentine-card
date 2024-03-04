@@ -26,7 +26,7 @@ no.addEventListener('click',function(){
 
     yes.style.width = "300px"
     yes.style.height ="100px"
-    img.src = "/Assets/images/m.webp"
+    img.src = "./Assets/images/m.webp"
     img.style.width = "700px"
     yes.innerText ="Thanks my Love"
     no.style.display = "none"
